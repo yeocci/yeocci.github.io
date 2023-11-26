@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Hexo的第一次尝试</title>
+      <link href="/2023/11/26/Hexo%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95/"/>
+      <url>/2023/11/26/Hexo%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<h3 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h3><p>很长一段时间，我都没有使用文字记录自己所做过的事情和所学过的知识。随着时间的推移，很多记忆在脑海中慢慢消失，突然某一天想着不能再这样下去了，一定要花点时间记录自己所知的一切，哪怕是短短几行字，相信未来重新读起这些记录，自己也会欣慰。然后就有了今天亿点时间搭建Hexo的记录。</p><h3 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h3><h4 id="前置条件"><a href="#前置条件" class="headerlink" title="前置条件"></a>前置条件</h4><ul><li><p><a href="https://hexo.io/zh-cn/docs">Hexo 文档</a>: 非常有用</p></li><li><p>一台能够联网并能用于开发设备</p></li><li><p>一颗还能够使用的大脑🧠</p></li></ul><h4 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h4><p>详细查看文档之后，选择将 Hexo 部署到自己的 Github 仓库，然后一顿操作，弄好了🤣。本次搭建使用的主题是 <a href="https://github.com/Haojen/Claudia-theme-blog">Claudia</a>，整体效果不错，就是暗色主题下，有些文字对比度不够强，后面在看看能不能自己改动颜色。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/11/26/hello-world/"/>
       <url>/2023/11/26/hello-world/</url>
