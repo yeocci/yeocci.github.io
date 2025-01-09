@@ -1,0 +1,9 @@
+title: Yeocci's Blog
+description: A blog about technology and programming
+baseurl: "/docs"
+url: "https://yeocci.github.io"
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
